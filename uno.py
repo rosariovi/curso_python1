@@ -1,1 +1,10 @@
-print("holahhhhhhhh")
+a=int(input("ingresar el primer nuemro  "))
+b=int(input("ingresar el segundo nuemro  "))
+c=a+b
+d=a-b
+e=a/b
+f=a*b
+print("la suma de a + b es = ", c)
+print("la resta de a - b es = ", d)
+print("la division de a / b es = ", e)
+print("la multiplicacion de a * b es = ", f)
